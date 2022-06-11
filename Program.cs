@@ -22,6 +22,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run()mistake;
+app.Run(); //repair
 
 //edited for checking action build
