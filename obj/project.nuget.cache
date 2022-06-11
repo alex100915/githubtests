@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oas+9HGMMHOxhqNHFr/9dy9yIo2j6BNtCXm+kuGNbg0qr3ufQkS6BDlbvZr4gKiNeLa+Dm8nr7FR9/15P/NWHQ==",
+  "dgSpecHash": "QHSrSbp6yhwUKFO/I/HE6YVkBwrrpsS4GQj663bUU8i5eP5ObL2MLIDLRuh2ehvg2I8iyjXb1i/+S2dhMjD87Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\matko\\OneDrive\\Pulpit\\bigpicture\\bigpicture.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\matko\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\matko\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\matko\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\matko\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\matko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\matko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
